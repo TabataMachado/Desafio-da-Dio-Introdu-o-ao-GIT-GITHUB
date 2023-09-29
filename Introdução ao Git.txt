@@ -1,0 +1,15 @@
+Projeto GitHub
+
+
+git clone para clonar
+
+git add .   ja adiciona pastas
+ 
+git commit -m "" PARA INCLUIR
+
+git push orirgin main para fazer a inclusão
+
+
+projeto
+
+git commit
